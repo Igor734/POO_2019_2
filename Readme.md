@@ -1,7 +1,7 @@
 ﻿# Poo 2019.2
 
 ## Links
-- [Youtube](https//youtube.com)
+- [Youtube](https://www.youtube.com/)
 - [Hangouts](https://hangouts.google.com/group/NQ6XPZbRo6J9uHR68)
 - [Notas]()
 ## Recursos
